@@ -1,0 +1,2 @@
+# arduino-bit-counter
+Write an Arduino sketch that will count numbers from 1000 down to 0. If the current number in its binary representation includes at least one HIGH/1 bit and if all the HIGH/1 bits appear consecutively, then the on‐board Arduino LED will flash two times in short bursts; otherwise, the on‐board Arduino LED will not flash. Once the counter reaches 0, it will start counting back from 1000; at this point on‐board Arduino LED will flash three times in long bursts.
